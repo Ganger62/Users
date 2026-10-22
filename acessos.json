@@ -4,11 +4,6 @@
         "plano": "Permanente",
         "expira_em": null
     },
-    "Luangabry5": {
-        "ativo": true,
-        "plano": "30d",
-        "expira_em": "2026-10-22T04:31:45.321919+00:00"
-    },
     "moonuserdev": {
         "ativo": true,
         "plano": "Permanente",
